@@ -1,0 +1,29 @@
+_repo: Chemical-warfare_71931
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Fries, Amos A.
+    gutenberg_agent_id: '56462'
+    url: http://www.gutenberg.org/2009/agents/56462
+  - agent_name: West, Clarence J.
+    gutenberg_agent_id: '56463'
+    url: http://www.gutenberg.org/2009/agents/56463
+description: ''
+gutenberg_issued: '2023-10-22'
+identifiers:
+  gutenberg: '71931'
+language: en
+pgterms:marc904: https://archive.org/details/chemicalwarfare00frieuoft
+pgterms:marc905: 20201124051223fries
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bMcGraw Hill, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Chemical warfare
+url: http://www.gutenberg.org/ebooks/71931
