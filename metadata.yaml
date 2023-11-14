@@ -1,5 +1,8 @@
 _repo: Chemical-warfare_71931
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71931-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Fries, Amos A.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '56463'
     url: http://www.gutenberg.org/2009/agents/56463
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71931#Chemical-warfare
 gutenberg_issued: '2023-10-22'
 identifiers:
   gutenberg: '71931'
